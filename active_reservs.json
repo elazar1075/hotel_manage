@@ -1,0 +1,105 @@
+{
+    "reservations": [
+        {
+            "reservation": 101001,
+            "date issu": "30/05/2021 20:52:00",
+            "first name": "jon",
+            "last name": "do",
+            "id": "0088998899",
+            "check in": "02/06/2021",
+            "check out": "05/06/2021",
+            "duration": 3,
+            "room type": "single",
+            "room number": "101",
+            "include BF": "y",
+            "include WiFi": "y",
+            "room price": 1350,
+            "pay method": "Credit Card"
+        },
+        {
+            "reservation": 101003,
+            "date issu": "30/05/2021 21:37:46",
+            "first name": "don",
+            "last name": "king",
+            "id": "087687687",
+            "check in": "03/06/2021",
+            "check out": "08/06/2021",
+            "duration": 5,
+            "room type": "suite",
+            "room number": "306",
+            "include BF": "y",
+            "include WiFi": "y",
+            "room price": 6000,
+            "pay method": "Cheqes"
+        },
+        {
+            "reservation": 101006,
+            "date issu": "30/05/2021 22:13:18",
+            "first name": "kal",
+            "last name": "el",
+            "id": "0111111111",
+            "check in": "03/06/2021",
+            "check out": "08/06/2021",
+            "duration": 5,
+            "room type": "suite",
+            "room number": "303",
+            "include BF": "y",
+            "include WiFi": "y",
+            "room price": 6000,
+            "pay method": "Cash"
+        },
+        {
+            "reservation": 101013,
+            "date issu": "02/06/2021 21:41:36",
+            "first name": "daniel",
+            "last name": "massaro",
+            "id": "041621822",
+            "check in": "03/06/2021",
+            "check out": "04/06/2021",
+            "duration": 1,
+            "room type": "twin",
+            "room number": "205",
+            "include BF": "y",
+            "include WiFi": "y",
+            "room price": 520,
+            "pay method": "Cheqes"
+        },
+        {
+            "reservation": 101016,
+            "date issu": "03/06/2021 20:01:39",
+            "first name": "tony",
+            "last name": "missely",
+            "id": "09890901212",
+            "check in": "03/06/2021",
+            "check out": "04/06/2021",
+            "duration": 1,
+            "room type": "single",
+            "room number": "201",
+            "include BF": "y",
+            "include WiFi": "y",
+            "room price": 450,
+            "pay method": "Cheqes"
+        },
+        {
+            "reservation": 101017,
+            "date issu": "03/06/2021 20:02:54",
+            "first name": "mel",
+            "last name": "brooks",
+            "id": "09877890001",
+            "check in": "03/06/2021",
+            "check out": "04/06/2021",
+            "duration": 1,
+            "room type": "triple",
+            "room number": "112",
+            "include BF": "y",
+            "include WiFi": "y",
+            "room price": 640,
+            "pay method": "Cash"
+        }
+    ],
+    "max_reservation": [
+        {
+            "max": 101021
+        }
+    ]
+}

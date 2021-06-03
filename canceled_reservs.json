@@ -1,0 +1,57 @@
+{
+    "reservations": [
+        {
+            "reservation": 101005,
+            "date issu": "30/05/2021 21:44:59",
+            "first name": "bilbo",
+            "last name": "bagins",
+            "id": "0121212123",
+            "check in": "07/06/2021",
+            "check out": "10/06/2021",
+            "duration": 3,
+            "room type": "quad",
+            "room number": "111",
+            "include BF": "y",
+            "include WiFi": "y",
+            "room price": 2250,
+            "pay method": "Cheqes"
+        },
+        {
+            "reservation": 101008,
+            "date issu": "30/05/2021 23:27:44",
+            "first name": "Tommy",
+            "last name": "Morisson",
+            "id": "0123321123",
+            "check in": "10/08/2021",
+            "check out": "16/08/2021",
+            "duration": 6,
+            "room type": "triple",
+            "room number": "112",
+            "include BF": "y",
+            "include WiFi": "y",
+            "room price": 3840,
+            "pay method": "Cheqes"
+        },
+        {
+            "reservation": 101012,
+            "date issu": "30/05/2021 23:59:04",
+            "first name": "James",
+            "last name": "Bond",
+            "id": "070070077",
+            "check in": "07/07/2021",
+            "check out": "14/07/2021",
+            "duration": 7,
+            "room type": "suite",
+            "room number": "303",
+            "include BF": "y",
+            "include WiFi": "y",
+            "room price": 8400,
+            "pay method": "Cash"
+        }
+    ],
+    "max_reservation": [
+        {
+            "max": 101013
+        }
+    ]
+}
